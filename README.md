@@ -3,7 +3,7 @@
 ---
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my AWS career and  Bug Bounty hunting on Web Applications 
+- 🔭 I’m currently working on ... my AWS cloud and Security 
 - 🌱 I’m currently learning ... Web applicaion security and AWS services 
 - 👯 I’m looking to collaborate on ... AWS cloud projects
 - 🤔 I’m looking for help with ... web application vulnerability assessment.  
